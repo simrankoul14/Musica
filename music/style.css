@@ -1,0 +1,25 @@
+body {
+    background: white url("images/background.jpg");
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Satisfy', cursive;
+}
+
+.username_formatting{
+    padding-top: 40px;
+    color: chartreuse;
+    font-family: sans-serif;
+}
+
+.container .panel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: indigo;
+}
